@@ -1,0 +1,26 @@
+{
+  "name": "my-first-api",
+  "version": "1.0.0",
+  "description": "This is my first api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/majomaken/my-first-api.git"
+  },
+  "keywords": [
+    "Node",
+    "express",
+    "api",
+    "rest",
+    "learning"
+  ],
+  "author": "majomaken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majomaken/my-first-api/issues"
+  },
+  "homepage": "https://github.com/majomaken/my-first-api#readme"
+}
